@@ -1,4 +1,4 @@
-# name-generator
+# Example of crud with memory var
 
 ## Project setup
 ```
